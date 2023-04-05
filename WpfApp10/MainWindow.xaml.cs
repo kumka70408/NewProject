@@ -23,6 +23,7 @@ namespace WpfApp10
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
